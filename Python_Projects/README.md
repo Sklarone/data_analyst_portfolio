@@ -1,0 +1,1 @@
+Welcome to the Python Projects section of my data analytics portfolio. This folder contains all of the projects I have developed using Python, showcasing my skills as a Junior Data Analyst. These projects demonstrate my ability to analyze data, build models, and deliver insights through Python programming.
