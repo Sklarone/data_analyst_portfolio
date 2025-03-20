@@ -9,7 +9,6 @@ The English version is listed below
 ### 1. **Модель бюджета для страховой компании на 2022 год**
    - **Описание**: Построена модель для расчета бюджета страховой компании на 2022 год. Модель рассчитывает пролонгацию и новый бизнес на основе исторических данных, уровня пролонгации и темпов роста.
    - **Навыки**: Финансовое моделирование, анализ данных, формулы Excel (СУММЕСЛИ, ГПР, ИНДЕКС, ПОИСКПОЗ), динамические расчеты.
-   - **Ссылка**: [EXCEL_Projects/Insurance_Budget_Model](#)
 
 ## Используемые инструменты и навыки
 
@@ -37,7 +36,6 @@ Welcome to my Excel Projects Portfolio! This repository contains projects where 
 ### 1. **Insurance Company Budget Model for 2022**
    - **Description**: Built a budget calculation model for an insurance company for 2022. The model calculates renewals and new business based on historical data, renewal rates, and growth rates.
    - **Skills**: Financial modeling, data analysis, Excel formulas (SUMIF, HLOOKUP, INDEX, MATCH), dynamic calculations.
-   - **Link**: [EXCEL_Projects/Insurance_Budget_Model](#)
 
 ---
 
