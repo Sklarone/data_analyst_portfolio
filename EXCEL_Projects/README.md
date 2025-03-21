@@ -9,6 +9,9 @@ The English version is listed below
 ### 1. **Модель бюджета для страховой компании на 2022 год**
    - **Описание**: Построена модель для расчета бюджета страховой компании на 2022 год. Модель рассчитывает пролонгацию и новый бизнес на основе исторических данных, уровня пролонгации и темпов роста.
    - **Навыки**: Финансовое моделирование, анализ данных, формулы Excel (СУММЕСЛИ, ГПР, ИНДЕКС, ПОИСКПОЗ), динамические расчеты.
+### 2. **Анализ загруженности медицинских организаций и колл-центра**
+   - **Описание**: Проведен анализ данных по медицинским организациям, включая объединение таблиц, классификацию возрастов, учет количества записей и прогнозирование загруженности колл-центра.
+   - **Навыки**: Анализ данных, Excel (ВПР, ЕСЛИ, СЧЁТЕСЛИ, ОКРУГЛВНИЗ, ПОИСКПОЗ), визуализация, прогнозирование.
 
 ## Используемые инструменты и навыки
 
@@ -36,6 +39,9 @@ Welcome to my Excel Projects Portfolio! This repository contains projects where 
 ### 1. **Insurance Company Budget Model for 2022**
    - **Description**: Built a budget calculation model for an insurance company for 2022. The model calculates renewals and new business based on historical data, renewal rates, and growth rates.
    - **Skills**: Financial modeling, data analysis, Excel formulas (SUMIF, HLOOKUP, INDEX, MATCH), dynamic calculations.
+### 2. **Analysis of workload of medical organisations and call centre**
+   - **Description**: Performed data analysis on medical organisations including table merging, age classification, record counts and call centre workload forecasting.
+   - **Skills**: Data analysis, Excel (VLOOKUP, IF, IFS, FLOOR, INDEX), visualisation, forecasting.
 
 ---
 
