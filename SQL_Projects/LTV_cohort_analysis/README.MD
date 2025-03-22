@@ -28,8 +28,6 @@
 
 ## 4. Ссылка на код
 [Script](https://github.com/Sklarone/junior-data_analyst-portfolio/blob/main/SQL_Projects/LTV_cohort_analysis/script.sql)
-  
-*(Вставьте ссылку на репозиторий или файл с кодом)*
 
 ## 5. Бизнес-выводы
 
