@@ -4,7 +4,7 @@
 
 ## Список проектов
 
-### 1. **[Анализ LTV для онлайн-аптеки](https://github.com/Sklarone/data_analyst_portfolio/tree/main/SQL_Projects/LTV_cohort_analysis)**
+### 1. **[Когортный анализ LTV для онлайн-аптеки](https://github.com/Sklarone/data_analyst_portfolio/tree/main/SQL_Projects/LTV_cohort_analysis)**
    - **Описание**: проведен когортный анализ LTV. Когорты были сформированы по месяцам регистрации клиентов. Для каждой когорты были рассчитаны значения LTV на разных этапах жизненного цикла клиента (0, 7, 14, 30, 60, 90, 180 и 300 дней). Результаты визуализированы в виде тепловой карты Heatmap
    - **Навыки**: SQL (SELECT, GROUP BY, SUM, COUNT, CASE),CTE, агрегация данных, фильтрация, оконные функции.
 
