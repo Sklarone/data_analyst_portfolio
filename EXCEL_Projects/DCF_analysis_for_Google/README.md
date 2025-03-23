@@ -35,7 +35,7 @@
 
 #### 4. Ссылка на файл
 
-[DCF файл](ссылка_на_код)
+[DCF файл](https://github.com/Sklarone/data_analyst_portfolio/blob/main/EXCEL_Projects/DCF_analysis_for_Google/Google_DCF_Sensitivity_Analysis.xlsx)
 
 ---
 
