@@ -25,7 +25,7 @@
   - Интерактивные элементы для удобного мониторинга  
 
 ## Доступ к дашборду  
-**Ссылка на дашборд (Tableau Public):** [(https://public.tableau.com/views/Second-handSalesOverview/SalesOverview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)]  
+[Ссылка на дашборд (Tableau Public)](https://public.tableau.com/views/Second-handSalesOverview/SalesOverview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ## Превью  
 [Preview](https://github.com/Sklarone/data_analyst_portfolio/blob/main/BI_Projects/SecondHand_Sales_Overview/Dashbord_preview.png)  
 
