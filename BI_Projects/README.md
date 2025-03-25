@@ -13,7 +13,7 @@
  **Tableau**: построение интерактивных дашбордов, работа с фильтрами и параметрами  
  
 **Ссылка на проект**: 
-
+[Анализ продаж розничной сети (Tableau)](https://github.com/Sklarone/data_analyst_portfolio/tree/main/BI_Projects/SecondHand_Sales_Overview)
 ---
 
 ##  Используемые инструменты и технологии  
