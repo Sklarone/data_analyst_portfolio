@@ -92,30 +92,6 @@ WHERE
 --2 вариант (Используем BETWEEN)
 SELECT
     NOM, 
-    PRENOM,
-    PATRONYME, 
-    POL, 
-    NE_LE 
-FROM
-    PATIENTS
-WHERE
-    NE_LE >= '1990-01-01' AND NE_LE <= '1991-02-01'; -- Где дата рождения больше или равна 1 января 1990 И меньше или равна 1 февраля 1991
---Задание 2
---1 вариант (Используем знаки сравнения)
-SELECT
-    NOM,
-    PRENOM,
-    PATRONYME,
-    POL, 
-    NE_LE
-FROM
-    PATIENTS
-WHERE
-    NE_LE >= '1990-01-01' AND NE_LE <= '1991-02-01'; -- Где дата рождения больше или равна 1 января 1990 И меньше или равна 1 февраля 1991
-    
---2 вариант (Используем BETWEEN)
-SELECT
-    NOM, 
     PRENOM, 
     PATRONYME, 
     POL,
