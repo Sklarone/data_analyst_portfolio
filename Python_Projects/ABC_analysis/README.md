@@ -38,7 +38,8 @@
 
 ## Ссылки на код и данные
 
-[Script](ссылка_на_ваш_Jupyter_Notebook_или_файл_.py_на_GitHub)
+[Script](https://github.com/Sklarone/data_analyst_portfolio/blob/main/Python_Projects/ABC_analysis/ABC_analysis.ipynb)
+[Данные](https://github.com/Sklarone/data_analyst_portfolio/blob/main/Python_Projects/ABC_analysis/data.csv)
 
 ## Бизнес-выводы и рекомендации по ABC-анализу
 
