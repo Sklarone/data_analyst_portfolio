@@ -4,7 +4,7 @@
 
 ## Список проектов
 
-### 1.  **[ABC-анализ ассортимента](https://github.com/Sklarone/data_analyst_portfolio/tree/main/Python_Projects/ABC_analysis) - Данные о покупках в онлайн-аптеке**
+### 1.  **[ABC-анализ ассортимента](https://github.com/Sklarone/data_analyst_portfolio/tree/main/Python_Projects/ABC_analysis) - Данные о покупках в аптеке**
    - **Описание:** Проект по классификации товаров онлайн-аптеки на основе их вклада в общее количество проданных единиц и выручку. Целью было определить ключевые позиции для оптимизации управления запасами, ценообразования и маркетинговых стратегий. Результаты визуализированы с помощью интерактивного графика.
    - **Навыки:** Python (pandas, numpy, plotly.express), бизнес-аналитика, интерактивная визуализация данных.
 ### 2. **[Анализ продаж](https://github.com/Sklarone/data_analyst_portfolio/tree/main/Python_Projects/sales_analysis) - Данные о продажах сети магазинов винтажной одежды**
