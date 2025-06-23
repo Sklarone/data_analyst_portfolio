@@ -39,7 +39,10 @@
 ## Ссылки на код и данные
 
 [Script](https://github.com/Sklarone/data_analyst_portfolio/blob/main/Python_Projects/ABC_analysis/ABC_analysis.ipynb)
+
 [Данные](https://github.com/Sklarone/data_analyst_portfolio/blob/main/Python_Projects/ABC_analysis/data.csv)
+
+[Скриншот: Интерактивный точечный график ABC-анализа (Plotly)](https://github.com/Sklarone/data_analyst_portfolio/blob/main/Python_Projects/ABC_analysis/Interactive_chart.jpg)
 
 ## Бизнес-выводы и рекомендации по ABC-анализу
 
